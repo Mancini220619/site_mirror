@@ -9,6 +9,7 @@ body {
     font-family: 'Roboto', sans-serif;
     position: relative;
     font-weight: 400px;
+
 }
 
 ul li {
@@ -816,6 +817,21 @@ h2.title:before {
 
 .features_items {
     overflow: hidden;
+}
+
+.historia {
+
+}
+
+.conteudo {
+    overflow: hidden;
+    text-align: center;
+    height: 400px;
+    position: relative;
+    padding-top: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+  
 }
 
 h2.title {
