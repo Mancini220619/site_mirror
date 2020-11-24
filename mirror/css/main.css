@@ -2455,3 +2455,8 @@ textarea {
 .contact-info .social-networks ul li a:hover {
     color: #FE980F;
 }
+
+.blackfriday {
+    padding-left: 100px;
+    position: relative;
+}
